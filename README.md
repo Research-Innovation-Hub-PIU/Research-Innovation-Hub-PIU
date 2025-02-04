@@ -69,4 +69,4 @@ We welcome contributions from the open-source community! Follow these steps:
 ---
 
 ### 🌟 **Made with ❤️ by Research & Innovation Hub - PIU**  
-Would you like to include custom badges for technologies used (Python, AI, etc.)? 🚀
+
