@@ -62,7 +62,6 @@ We welcome contributions from the open-source community! Follow these steps:
 
 ## 📫 **Contact Us**  
 📧 **Email:** [research.innovations@piu.ac.ke](mailto:research.innovations@piu.ac.ke)  
-🌐 **Website:** [Coming Soon...]  
 🐦 **Twitter:** [@PIU_Innovate](#)  
 
 📢 *Stay connected and contribute to cutting-edge research and innovation!* 🚀  
